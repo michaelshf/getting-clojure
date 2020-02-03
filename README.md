@@ -13,6 +13,10 @@ each line of code via a CIDER repl line-by-line (Ctrl-C, Ctrl-E).
 The goal is for users to understand what each line does, or learn
 what it does by executing it.
 
+Hopefully, all chapters (namespaces) will be able to be run using
+eval-buffer (Ctrl-C Ctrl-K) without affect - other than printing
+"End of Chapter" to the repl
+
 ## License
 
 Copyright © 2020 Michael Simonson
